@@ -1,0 +1,11 @@
+jupyter
+jupyterlab
+jupyter_contrib_nbextensions
+autopep8
+
+pandas
+matplotlib
+sklearn
+torch
+numpy
+
